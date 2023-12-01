@@ -1,2 +1,2 @@
 # qt
-use QT  do somethongs
+use QT  do somethings
